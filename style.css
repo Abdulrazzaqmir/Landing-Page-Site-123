@@ -1,0 +1,159 @@
+.navebar {
+    background-color: rgb(31, 30, 30);
+    border-radius:30px ;
+    margin-top: 20px;
+}
+.navebar ul {
+     overflow: hidden;
+}
+.navebar li {
+      float: left;
+      list-style: none;
+      margin: 13px 20px ;
+}
+.navebar li a {
+       padding: 3px 3px ;
+       text-decoration: none;
+       color: white;
+}
+.navebar li a :hover {
+                  color:blue;
+}
+.main {
+    float: right;
+    color: white;
+    padding: 12px 45px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.image{
+    overflow: hidden;
+        float: right;
+        width: 40%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+}
+.heading{
+             font-size: x-large;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           font-size: x-large;
+           font-style: italic;
+}
+.layout p{
+          text-align: center;
+          font-size: 25px;
+          font-style: italic;
+}
+.btn{
+       font-size: 22px;
+       padding: 18px;
+       margin: 18px;
+       background-color: black;
+       color: white;
+       font-family: 'Times New Roman', Times, serif;
+       font-style: italic;
+}
+#container{
+               text-align: center;
+}
+*{
+    box-sizing: border-box;
+    font-family: 'lato ', sans-serif
+}
+.title{
+          text-align: center;
+          font-size: xx-large;
+          font-family: 'Times New Roman', Times, serif;
+          font-style: italic;
+}
+.card {
+    display: inline-block;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 10px;
+  }
+  
+  .card-content {
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .footer-logo img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .footer-logo h3 {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-links ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .footer-links ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer-disclaimer {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+  }
+  
+  
+
+       
